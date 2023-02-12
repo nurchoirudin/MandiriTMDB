@@ -1,0 +1,6 @@
+framework module Pods_MandiriTMDB {
+  umbrella header "Pods-MandiriTMDB-umbrella.h"
+
+  export *
+  module * { export * }
+}

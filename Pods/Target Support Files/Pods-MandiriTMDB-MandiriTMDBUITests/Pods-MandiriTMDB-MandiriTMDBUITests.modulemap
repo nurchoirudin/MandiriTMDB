@@ -1,0 +1,6 @@
+framework module Pods_MandiriTMDB_MandiriTMDBUITests {
+  umbrella header "Pods-MandiriTMDB-MandiriTMDBUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
